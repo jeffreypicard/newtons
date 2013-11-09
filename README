@@ -1,0 +1,19 @@
+newtons
+=======
+
+Basic C implementation of newtons method for root finding.
+
+building
+========
+
+make
+
+running
+=======
+
+./newtons
+
+customizing
+===========
+
+Read comments in newtons.c
